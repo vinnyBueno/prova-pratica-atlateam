@@ -1,2 +1,2 @@
-# prova-pratica-atlateam
-Repositorio da prova pratica da atlateam
+# prova-pratica-atlanteam
+Repositorio da prova pratica da atlanteam
